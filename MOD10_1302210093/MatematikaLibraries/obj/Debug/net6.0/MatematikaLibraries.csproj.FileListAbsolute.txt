@@ -1,0 +1,12 @@
+D:\MOD10_1302210093\MOD10_1302210093\MatematikaLibraries\obj\Debug\net6.0\MatematikaLibraries.csproj.AssemblyReference.cache
+D:\MOD10_1302210093\MOD10_1302210093\MatematikaLibraries\obj\Debug\net6.0\MatematikaLibraries.GeneratedMSBuildEditorConfig.editorconfig
+D:\MOD10_1302210093\MOD10_1302210093\MatematikaLibraries\obj\Debug\net6.0\MatematikaLibraries.AssemblyInfoInputs.cache
+D:\MOD10_1302210093\MOD10_1302210093\MatematikaLibraries\obj\Debug\net6.0\MatematikaLibraries.AssemblyInfo.cs
+D:\MOD10_1302210093\MOD10_1302210093\MatematikaLibraries\obj\Debug\net6.0\MatematikaLibraries.csproj.CoreCompileInputs.cache
+D:\MOD10_1302210093\MOD10_1302210093\MatematikaLibraries\bin\Debug\net6.0\MatematikaLibraries.deps.json
+D:\MOD10_1302210093\MOD10_1302210093\MatematikaLibraries\bin\Debug\net6.0\MatematikaLibraries.dll
+D:\MOD10_1302210093\MOD10_1302210093\MatematikaLibraries\bin\Debug\net6.0\MatematikaLibraries.pdb
+D:\MOD10_1302210093\MOD10_1302210093\MatematikaLibraries\obj\Debug\net6.0\MatematikaLibraries.dll
+D:\MOD10_1302210093\MOD10_1302210093\MatematikaLibraries\obj\Debug\net6.0\refint\MatematikaLibraries.dll
+D:\MOD10_1302210093\MOD10_1302210093\MatematikaLibraries\obj\Debug\net6.0\MatematikaLibraries.pdb
+D:\MOD10_1302210093\MOD10_1302210093\MatematikaLibraries\obj\Debug\net6.0\ref\MatematikaLibraries.dll
